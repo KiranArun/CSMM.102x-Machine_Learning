@@ -1,5 +1,7 @@
 ## CSMM.102x Machine Learning
 
+https://www.edx.org/course/machine-learning-columbiax-csmm-102x-0
+
 I took edX CSMM.102x Machine Learning in September 2017 for 12 weeks and these are my personal notes. 
 They aren't pretty and there are a few missing bits but I don't expect to update them.
 **SPOILER WARNING: The assessment notebooks do work and the code is similar to my code that passed.**
